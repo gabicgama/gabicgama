@@ -3,7 +3,7 @@
 
 :mortar_board: Graduando em Engenharia da Computação
 
-[![Gmail Badge](https://img.shields.io/badge/-camposgamagabriela@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:camposgamagabriela@gmail.com)](mailto:camposgamagabriela@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-camposgamagabriela@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:camposgamagabriela@gmail.com)](mailto:camposgamagabriela@gmail.com)
 
 ## :zap: Tecnologias
 
