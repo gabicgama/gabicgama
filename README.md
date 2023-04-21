@@ -1,7 +1,7 @@
 ### Hi! I'm Gabriela :wave:
 
 
-:mortar_board: Graduando em Engenharia da Computação
+:mortar_board: Engenharia da Computação
 
 [![Gmail Badge](https://img.shields.io/badge/-camposgamagabriela@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:camposgamagabriela@gmail.com)](mailto:camposgamagabriela@gmail.com)
 
