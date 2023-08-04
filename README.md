@@ -1,6 +1,6 @@
 ### Hi! I'm Gabriela :wave:
 
-:mortar_board: Formada em: Engenharia da Computação 
+:mortar_board: Formada em: Engenharia da Computação <br>
 :computer: Atualmente trabalhando com: Java e Angular
 
 [![Gmail Badge](https://img.shields.io/badge/-camposgamagabriela@gmail.com-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:camposgamagabriela@gmail.com)](mailto:camposgamagabriela@gmail.com)
